@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
+
+* {
+    background-color: #000;
+    color: aqua;
+    letter-spacing: 3px;
+    text-align: center;
+}
+
+.clock {
+    font-family: 'Bungee Spice', cursive;
+    font-size: 85px;
+    margin-top: 12%;
+}
+
+.title {
+    font-family: 'Bungee Spice', cursive;
+    font-size: 55px;
+    margin-top: 5%;
+}
