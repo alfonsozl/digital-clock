@@ -26,7 +26,7 @@ const Clock = () => {
         setTimeout(() => {
         setHour((hour) => hour + 1);
         }, 1000);
-    })
+    }, [])
 
     return (
         <>
